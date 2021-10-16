@@ -20,12 +20,18 @@
  
 - 🤝 I’m a Freelancer and have successfully completed multiple projects for the clients.
 
+<br />
+
 <h1>My Experience</h1>
 <p>Working on it</p>
 
+<br />
 
 <h1>Honor and Awards</h1>
 <p>Working on it</p>
+
+
+<br />
 
 <h1>My Github Stats</h1>
 
