@@ -22,12 +22,12 @@
 
 <br />
 
-<h1>My Experience</h1>
+<h1>My Experiences 🙌</h1>
 <p>Working on it</p>
 
 <br />
 
-<h1>Honor and Awards</h1>
+<h1>Honors & Awards 🏅</h1>
 <p>Working on it</p>
 
 
