@@ -7,6 +7,7 @@
 <h1 align = "center">Connect with me</h1>
 <p align = "center">
 <a href="https://github.com/Uchiha-Itachi0"><img height = "35px"src="https://img.shields.io/badge/-Github-black?logo=github&style=flat-square"/></a>
+<a href="https://twitter.com/Anubhav08Shukla"><img height = "35px"src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/anubhav008shukla/"><img height = "35px" src="https://img.shields.io/badge/-Instagram-pink?logo=instagram&style=flat-square"/></a>
 <a href="mailto:anubhav008shukla@gmail.com"><img height = "35px" src="https://img.shields.io/badge/-Mail_me-black?logo=gmail&style=flat-square"/></a>
 </p>
