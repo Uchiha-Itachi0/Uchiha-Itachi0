@@ -36,7 +36,7 @@
 
 <h1>My Github Stats</h1>
 
-<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=Uchiha-Itachi0&theme=react-dark) -->
+![github graph](https://activity-graph.herokuapp.com/graph?username=Uchiha-Itachi0&theme=react-dark)
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Uchiha-Itachi0&theme=algolia" alt="anubhav"  /></p>
 
 <br />
