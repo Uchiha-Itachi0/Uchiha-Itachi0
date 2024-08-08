@@ -14,22 +14,58 @@
 <br />
 
 <h1>About me 🚀</h1>
-<p>🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics and Telecommunication (currently in 1st year) but I am more passionate about Computer Science & Engineering. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.</p>
-
-
-- 👨‍💻  I am passionate about Web Dev, Machine Learning, Python, Competative coding & I enjoy learning new things. </br>
- 
-- 🤝 I’m a Freelancer and have successfully completed multiple projects for the clients.
+<p>🎓 I am a software engineer passionate about machine learning and artificial intelligence. I have experience building web applications, and machine learning models, and deploying them to the cloud. I am proficient in Python and JavaScript. I have experience with frameworks like React, and Django. I am also familiar with cloud platforms like AWS and Azure</p>
 
 <br />
 
 <h1>My Experiences 🙌</h1>
-<p>Working on it</p>
+ <h2>Software Engineer at Vaizle</h2>
+ 
+ <li>Developed and maintained web applications using Angular.js
+ and TailwindCSS.</li>
+ <li>Built and managed APIs using Nestjs for robust and scalable
+ server-side applications.</li>
+ <li>Worked closely with the project manager and other developers
+ to deliver projects on time.</li>
+ 
+ <h2>Building Start-Up (present)</h2>
+ <li>Working on developing a cross-platform mobile application
+ using Flutter</li>.
+ <li>Integrating machine learning features to enhance the app's
+ functionality.</li>
+ <li>Utilizing technologies like Next.js and TailwindCSS for web
+ development.</li>
+ <li>Encouraging team collaboration and idea sharing to drive
+ innovation.</li>
 
+ <h2> Content Writer at LinkedIn</h2>
+<li> Wrote in-depth articles and blog posts focused on machine
+ learning and AI.
+ </li>
+ <li>Researched trending topics and industry news to create
+ relevant and engaging content.
+</li>
+<li> Developed a content strategy to increase engagement and
+ followers, achieving over 8,000 impressions on a single blog
+ post.</li>
+
+ <h2> Helping Local Businesses (Freelance Work)</h2>
+ <li>Developed customized websites for local businesses to
+ establish their online presence.
+</li>
+<li> Used technologies like ReactJS, NextJS, Django,
+ MongoDB, and NodeJS to build robust and scalable
+ solutions.
+ </li>
+ <li>Conducted training sessions to empower business owners
+ to manage and update their websites independently</li>
 <br />
 
 <h1>Honors & Awards 🏅</h1>
-<p>Working on it</p>
+<li>2nd Rank in Frontend competition held in college.</li>
+ 
+  <li>Hackerrank Gold badge in Problem Solving.</li>
+ <li>8,000+ impression on linkedin blog post</li>
 
 
 <br />
